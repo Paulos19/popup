@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Bloco de Notas",
+    "version": "1.0",
+    "description": "Uma extensão simples para criar anotações.",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": ["storage"]
+  }
