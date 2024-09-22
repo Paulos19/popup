@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "jspdf": "^2.5.2"
-  }
+  },
+  "name": "bloco_de_notas",
+  "version": "1.0.0",
+  "description": "bloco de notas",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "script"
+  },
+  "author": "paulo henrique",
+  "license": "MIT"
 }
